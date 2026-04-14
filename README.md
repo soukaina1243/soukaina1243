@@ -6,8 +6,11 @@
 ### About Me
 
 🎓 Engineering student at INPT, specializing in Data Science & Engineering
+
 🔭 Currently working on Big Data pipelines and AI-powered applications
+
 🌍 Based in Rabat, Morocco | Open to internship opportunities in Data Engineering, Data Science & AI
+
 📫 Reach me at: soukainaamehri60@gmail.com
 
 
