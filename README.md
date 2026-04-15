@@ -53,7 +53,7 @@ Production-grade ETL pipeline processing 24,960 records across 261 countries, fu
 > Python · Selenium · XGBoost · Scikit-learn · Streamlit
 
 Scraped thousands of listings, engineered features, and deployed a live prediction app achieving R² of 0.95.
-[→ View Project](#)
+[→ View Project](https://github.com/soukaina1243/end-to-end_ml-project_real-estate)
 
 ---
 
