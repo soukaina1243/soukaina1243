@@ -9,7 +9,7 @@
 
 🔭 Currently working on Big Data pipelines and AI-powered applications
 
-🌍 Based in Rabat, Morocco | Open to internship opportunities in Data Engineering, Data Science & AI
+🌍 Based in Rabat, Morocco | Open to internship opportunities in Data Engineering, Data Science, Data Analysis & AI
 
 📫 Reach me at: soukainaamehri60@gmail.com
 
