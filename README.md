@@ -38,14 +38,13 @@
 
 End-to-end Big Data pipeline processing ~3M NASA HTTP log records with both batch and real-time streaming.
 Built 15 analytical models for traffic analysis, error detection, and temporal trends.
-[→ View Project](#)
 
 
 ### 🟡 Global Inflation Analysis — Data Engineering Pipeline
 > Python · PostgreSQL · Apache Airflow · Docker · Power BI
 
 Production-grade ETL pipeline processing 24,960 records across 261 countries, fully orchestrated with Airflow and containerized with Docker.
-[→ View Project](#)
+[View Project](#)
 
 ---
 
@@ -53,7 +52,7 @@ Production-grade ETL pipeline processing 24,960 records across 261 countries, fu
 > Python · Selenium · XGBoost · Scikit-learn · Streamlit
 
 Scraped thousands of listings, engineered features, and deployed a live prediction app achieving R² of 0.95.
-[→ View Project](https://github.com/soukaina1243/end-to-end_ml-project_real-estate)
+[View Project](https://github.com/soukaina1243/end-to-end_ml-project_real-estate)
 
 ---
 
