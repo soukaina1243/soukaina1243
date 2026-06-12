@@ -44,7 +44,7 @@ Built 15 analytical models for traffic analysis, error detection, and temporal t
 > Python · PostgreSQL · Apache Airflow · Docker · Power BI
 
 Production-grade ETL pipeline processing 24,960 records across 261 countries, fully orchestrated with Airflow and containerized with Docker.
-[View Project](#)
+[View Project](https://github.com/soukaina1243/Global_Inflation_Analysis)
 
 ---
 
