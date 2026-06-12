@@ -61,18 +61,7 @@ Scraped thousands of listings, engineered features, and deployed a live predicti
 > Python · Google Gemini · Streamlit · Plotly
 
 LLM-powered agent analyzing ~400 learner activity records to auto-generate personalized SMART goals and recommendations.
-[→ View Project](#)
 
-
-
-
-
-
-### 📊 GitHub Stats
-
-![Soukaina's GitHub stats](https://github-readme-stats.vercel.app/api?username=soukaina1243&show_icons=true&theme=tokyonight)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=soukaina1243E&layout=compact&theme=tokyonight)
 
 
 
